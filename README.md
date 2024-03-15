@@ -1,4 +1,4 @@
-# ARM-Processor-Zed-board
+# Korea University Computer System and Design class assignments and project
 ### Examples with ARM assembly and C code using Zynq-7000 in Zed board
 
 ## Hardware
